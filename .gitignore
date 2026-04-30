@@ -1,0 +1,14 @@
+# Unity
+*.meta
+Library/
+Temp/
+Logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.user

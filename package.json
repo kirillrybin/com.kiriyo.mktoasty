@@ -1,0 +1,21 @@
+{
+  "name": "com.kiriyo.mktoasty",
+  "version": "1.0.0",
+  "displayName": "MK Toasty",
+  "description": "A Mortal Kombat-style 'Toasty!' easter egg for Unity. Shows a silhouette sliding in from the screen edge with a sound effect, triggered by keyboard shortcut, random timer, or code.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Kiriyo",
+    "url": "https://github.com/kiriyo"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0"
+  },
+  "keywords": [
+    "easter-egg",
+    "toasty",
+    "mortal-kombat",
+    "ui",
+    "fun"
+  ]
+}
