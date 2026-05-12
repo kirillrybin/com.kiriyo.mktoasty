@@ -88,6 +88,14 @@ presenter.OnHidden += () => Debug.Log("Toasty gone!");
 ```
 
 ---
+ 
+## Demo
+ 
+![Demo](Documentation~/demo.gif)
+
+A minimal demo scene is available in the [`upm-demo`](https://github.com/kirillrybin/com.kiriyo.mktoasty/tree/upm-demo) branch.
+
+---
 
 ## License
 
